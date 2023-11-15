@@ -1,7 +1,8 @@
-<h1 align="center" style='color':'blue'>Hello There 👋</h1>
-<h3 align="center"> I am a passionate Data Science learner from Brazil</h3>
+<h1 align="center" >Hello There 👋</h1>
+<h3 align="center"> I am a passionate Data Science learner from Brazil</h3>                 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.gmail.com)
 
-- 👋 Hi, 
+- 👋 Hi,
+- 🔎
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
