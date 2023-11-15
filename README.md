@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Matheus Kao</h1>
 <h3 align="center">A passionate data science learner from Brazil</h3>
 
+- 👋 Hi, I’m @math-kao
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-kao-0304bb17b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-kao-0304bb17b/" height="30" width="40" /></a>
