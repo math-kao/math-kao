@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋</h1>
+<h1 align="center" color='blue'>Hello There 👋</h1>
 <h3 align="center"> I am a passionate Data Science learner from Brazil</h3>
 
 - 👋 Hi, 
