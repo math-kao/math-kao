@@ -47,3 +47,12 @@
  
 </p>
 <br>
+<div style='display: inline_block">
+<img src='https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black'/>
+<img src='https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black'/>
+<img src='https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black'/>
+<img src='https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black'/>
+</div>
+
+
+
