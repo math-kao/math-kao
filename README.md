@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Matheus Kao</h1>
+<h1 align="center">Hello There 👋</h1>
 <h3 align="center">A passionate data science learner from Brazil</h3>
 
-- 👋 Hi, I’m @math-kao
+- 👋 Hi, 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
