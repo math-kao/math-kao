@@ -6,6 +6,7 @@
 - 🔎 I'm trying to do a big career transition to DataScience field.
 - 👀 I’m interested in Data Science as a tool to solve business challenges.
 - 🌱 I’m currently learning Deep Learning using pre trained models and creating a neural network for image classification problems.
+- ⚙️ I did a few bootcamps and Udemy certified courses to build Python Developer and Machine Learning knowledge.
 - ⚡ Fun fact: ...
 
 
