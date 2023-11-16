@@ -5,14 +5,14 @@
 <br>
 
 - 🔭 I’m currently working on:
-  - Implementing a classification model using Braskem Spend database year to date - Forecast reliability of suppliers.
+  - Implementing a classification model and regression model using Braskem SAP Spend database year to date - Forecast reliability of suppliers.
   - Creating a neural network to solve image classification problem using Keras datasets - Cifar10.
+  - Santander Coders Program 2023, Brazilian financial bank- Developing a classification model to evaluate clients credit score.
 - 🔎 I'm trying to do a Big career transition to DataScience field.
-- 👀 I’m interested in Data Science as a tool to solve business challenges.
 - 🌱 I’m currently learning Deep Learning using pre trained models and Tensorboard for an entirely understanding of how neural networks behaves.
 - ⚙️ I did and still do bootcamps and Udemy certified courses to build Python Developer and Machine Learning knowledge.
-- ⚡ Fun fact: I am a triplet
-  - I am a triplet
+- ⚡ Fun fact: 
+  - I am a triplet.
   - I have a Chemistry Bachelor Degree at University of São Paulo.
 
 
