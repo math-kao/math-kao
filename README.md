@@ -1,13 +1,19 @@
 <h1 align="center" >Hello There! 👋</h1>
+
 <h3 align="center"> I am a passionate Data Science learner from Brazil</h3>                
 
+<br>
 
-- 🔭 I’m currently working on Supply Business Analytics using Power BI, Databricks and SQL.
-- 🔎 I'm trying to do a big career transition to DataScience field.
+- 🔭 I’m currently working on:
+  - Implementing a classification model using Braskem Spend database year to date - Forecast reliability of suppliers.
+  - Creating a neural network to solve image classification problem using Keras datasets - Cifar10.
+- 🔎 I'm trying to do a Big career transition to DataScience field.
 - 👀 I’m interested in Data Science as a tool to solve business challenges.
-- 🌱 I’m currently learning Deep Learning using pre trained models and creating a neural network for image classification problems.
-- ⚙️ I did a few bootcamps and Udemy certified courses to build Python Developer and Machine Learning knowledge.
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Deep Learning using pre trained models and Tensorboard for an entirely understanding of how neural networks behaves.
+- ⚙️ I did and still do bootcamps and Udemy certified courses to build Python Developer and Machine Learning knowledge.
+- ⚡ Fun fact: I am a triplet
+  - I am a triplet
+  - I have a Chemistry Bachelor Degree at University of São Paulo.
 
 
   
