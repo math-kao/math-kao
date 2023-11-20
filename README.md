@@ -16,7 +16,7 @@
   - I have a Chemistry Bachelor Degree at University of São Paulo.
   - I presented my project at Microsoft Brazil headquarters. A solution using automation and predictive machine learning model.
  
-In my repositories I share my personal projects and guides to better learn Machine Learning algorithms
+In my repositories I share my personal projects and materials that I built to better understand MachineLearning algorithms
 
 
   
