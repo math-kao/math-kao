@@ -1,6 +1,6 @@
 <h1 align="center" >Hello There! 👋</h1>
 
-<h3 align="center"> I am a passionate Data Science learner from Brazil</h3>                
+<h3 align="center"> I am a passionate Data Scientist from Brazil</h3>                
 
 <br>
 
