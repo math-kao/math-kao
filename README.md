@@ -9,8 +9,8 @@
   - Creating a neural network to solve image classification problem using Keras datasets - Cifar10.
   - Santander Coders Program 2023, Brazilian financial bank- Developing a classification model to evaluate clients credit score.
 - 🔎 I'm trying to do a Big career transition to DataScience field.
-- 🌱 I’m currently learning Deep Learning using pre trained models and Tensorboard for an entirely understanding of how neural networks behaves.
-- ⚙️ I did bootcamps and still do Udemy certified courses to build Python Developer and especially Machine Learning, Big Data and Optimization algorithms (operations research)
+- 🌱 I’m currently learning about GANs(Generative Adversarial Networks).
+- ⚙️ I did bootcamps and still do Udemy certified courses to build Python Developer and especially Machine Learning, Big Data and Optimization algorithms knowledge.
 - ⚡ Fun fact: 
   - I am a triplet.
   - I have a Chemistry Bachelor Degree at University of São Paulo.
