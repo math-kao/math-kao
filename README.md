@@ -1,14 +1,13 @@
 <h1 align="center" >Hello There! 👋</h1>
 
-<h3 align="center"> I am a passionate Data Scientist from Brazil</h3>                
+<h3 align="center"> I am a passionate Data Scientist Student from Brazil</h3>                
 
 <br>
 
-- 🔭 I’m currently working on:
+- 🔭 Last workings:
   - Implementing a classification model and regression model using Braskem SAP Spend database- Forecast reliability of suppliers and future spend 2024-26
-  - Creating a neural network to solve image classification problem using Keras datasets - Cifar10.
   - Santander Coders Program 2023, Brazilian financial bank- Developing a classification model to evaluate clients credit score.
-- 🔎 I'm trying to do a Big career transition to DataScience field.
+- 🔎 I'm trying to do a career transition to DataScience field.
 - 🌱 I’m currently learning about GANs(Generative Adversarial Networks).
 - ⚙️ I did bootcamps and still do Udemy certified courses to build Python Developer and especially Machine Learning, Big Data and Optimization algorithms knowledge.
 - ⚡ Fun fact: 
