@@ -7,7 +7,7 @@
 - 🔭 Last projects:
   - Implementing a classification model and regression model using Braskem SAP Spend database- Forecast reliability of suppliers and future spend 2024-26
   - Santander Coders Program 2023, Brazilian financial bank- Developing a classification model to evaluate clients credit score.
-- 🔎 I'm trying to do a career transition to DataScience field.
+- 🔎 Working to become a Data Scientist.
 - 🌱 I’m currently learning about GANs(Generative Adversarial Networks).
 - ⚙️ I did bootcamps and still do Udemy certified courses to build Python Developer and especially Machine Learning, Big Data and Optimization algorithms knowledge.
 - ⚡ Fun fact: 
