@@ -13,7 +13,7 @@
 - ⚡ Fun fact: 
   - I am a triplet.
   - I have a Chemistry Bachelor Degree at São Paulo University - USP.
-  - I presented my Braskem project at Microsoft Brazil headquarters to Braskem VP, Microsoft, Accenture and Avanade manager team. A solution using automation and predictive machine learning model.
+  - I presented my Braskem intern project at Microsoft Brazil headquarters to Braskem, Microsoft, Accenture and Avanade managers team. A solution using automation and predictive machine learning model.
  
 In my repositories I share my personal projects and materials that I built to better understand MachineLearning algorithms
 
