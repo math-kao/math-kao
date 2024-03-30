@@ -4,16 +4,16 @@
 
 <br>
 
-- 🔭 On going projects/studies:
-  - Using GANs(GFP GANs) to work with real world face restoration: Focus on 'restoring' the quality of old photos
+- 🔭 On going projects:
+  - Using GANs(GFP GANs) to work with real world face restoration: Focus on 'restoring' the quality of old photos.
   - Genetic algorithms to enhance model optimization in Machine Learning algorithms.
 - 🔎 Working to become a Data Scientist.
 - 🌱 I’m currently studying about GANs(Generative Adversarial Networks).
-- ⚙️ I did bootcamps and still do Udemy certified courses to build Machine Learning, Big Data and Optimization algorithms knowledge.
+- ⚙️ I did bootcamp and still do certified courses to build Machine Learning, AI and Optimization algorithms knowledge.
 - ⚡ Fun fact: 
   - I am a triplet.
   - I have a Chemistry Bachelor Degree at São Paulo University - USP.
-  - I presented my Braskem intern project at Microsoft Brazil headquarters to Braskem, Microsoft, Accenture and Avanade managers team. A solution using automation and predictive machine learning model.
+  - I presented my Braskem intern project at Microsoft Brazil headquarters to Braskem, Microsoft, Accenture and Avanade managers team. A solution using automation and predictives machine learning models.
  
 In my repositories I share my personal projects and materials that I built to better understand MachineLearning algorithms
 
