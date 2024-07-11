@@ -1,13 +1,13 @@
 <h1 align="center" >Hello There! 👋</h1>
 
-<h3 align="center"> I am a passionate Data Scientist Student from Brazil</h3>                
+<h3 align="center"> Data Scientist  from Brazil</h3>                
 
 <br>
 
 - 🔭 On going projects:
-  - Using GANs(GFP GANs) to work with real world face restoration: Focus on 'restoring' the quality of old photos.
+  - Using GANs to work with real-world face restoration: Focus on 'restoring' the quality of old photos.
   - Genetic algorithms to enhance model optimization in Machine Learning algorithms.
-- 🔎 Working to become a Data Scientist.
+- 🔎 Studying AI Gen.
 - 🌱 I’m currently studying about GANs(Generative Adversarial Networks).
 - ⚙️ I did bootcamp and still do certified courses to build Machine Learning, AI and Optimization algorithms knowledge.
 - ⚡ Fun fact: 
